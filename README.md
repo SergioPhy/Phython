@@ -1,2 +1,2 @@
-# Phython
+# Python
 My Python scripts
